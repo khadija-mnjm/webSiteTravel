@@ -1,0 +1,59 @@
+/* ImageSlider.css */
+
+.slider-container {
+    position: relative;
+    width: 400px;
+    height: 400px;
+    margin: 50px auto; /* Adjust the margin as needed */
+    overflow: hidden;
+    border-radius: 10%;
+  }
+  
+  .slider-image {
+    display: none;
+    width: 100%;
+    height: 100%;
+    object-fit: cover; /* Maintain aspect ratio and cover the entire container */
+    transition: opacity 0.5s ease-in-out;
+  }
+  
+  .slider-image.active {
+    display: block;
+  }
+  
+  .slider-arrow {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    font-size: 24px;
+    cursor: pointer;
+    padding: 10px;
+    color: #ffffff;
+    background-color: rgba(255, 0, 0, 0);
+    border: none;
+    border-radius: 50%;
+  }
+  
+  .slider-prev {
+    left: 10px;
+  }
+  
+  .slider-next {
+    right: 10px;
+  }
+  .cadr{
+    display: flex;
+  }
+  
+  .custom-image{
+    max-width: 900px;
+    margin:10px;
+    align-items: center;
+    margin-left: 20%;
+  
+  
+  }
+  .A{
+    text-align:center;
+    font-size: 17px;
+  }

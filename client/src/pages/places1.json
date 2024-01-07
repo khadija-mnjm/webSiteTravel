@@ -1,0 +1,291 @@
+{
+  "villes": [
+    {
+      "nom": "Ouarzazate",
+      "img1": "https://i.pinimg.com/236x/cf/a5/a7/cfa5a7f41ea33fd06e35d30cd899adca.jpg",
+      "lieux": [
+        {
+          "nom": "Kasbah Ait Ben Haddou",
+          "description": "Une ancienne kasbah inscrite au patrimoine mondial de l'UNESCO.",
+          "type": "Site historique",
+          
+          "images":"https://t4.ftcdn.net/jpg/02/65/79/69/240_F_265796936_enlHwZeWyxHFMeehcTfhTr6PyaI9ks9F.jpg" ,
+          "images1":"https://t4.ftcdn.net/jpg/01/80/51/23/240_F_180512315_jmuZJIXlsY6XmXg5xxnIdyLyE10VhOlH.jpg"
+        },
+        {
+          "nom": "Studio Atlas",
+          "description": "Studio de cinéma où de nombreux films ont été tournés.",
+          "type": "Attraction cinématographique",
+          "images":"https://t4.ftcdn.net/jpg/03/41/38/39/240_F_341383932_CDQei0tMdJsin8FhalIWYNiL2sTEllJo.jpg",
+          "images1":"https://t4.ftcdn.net/jpg/03/41/39/37/240_F_341393764_izIi9x00wcNlEEythOowqFaj3AquwpYU.jpg"
+        },
+        {
+          "nom": "Musée du Cinéma de Ouarzazate",
+          "description": "Un musée présentant l'histoire du cinéma au Maroc.",
+          "type": "Musée",
+          
+          "images": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTZzbXt4E86u6EidzMym2xUR2AmLg_pHZDQg&usqp=CAU",
+          "images1":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPxfuZsvvKqs_67C8daFCN65T0v0XT6EbgQw&usqp=CAU"
+        },
+        {
+          "nom": "Kasbah Talwat",
+          "description": "Une autre belle kasbah dans la région.",
+          "type": "Site historique",
+          "images": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBGPcrluZFapF6jip7oyq9Fz9JWpLQj91XMQ&usqp=CAU",
+          "images1":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1oATYeHMQ8teI-Po0kx_KfsJjftGLINUilA&usqp=CAU"
+        },
+        {
+          "nom": "Bivouac de Merzouga",
+          "description": "Expérience de camping dans le désert de Merzouga.",
+          "type": "Camping",
+         
+          "images": "https://img.freepik.com/photos-premium/oasis-cachee-dans-desert-tribu-nomade_865967-55175.jpg?size=626&ext=jpg&uid=R131831811&ga=GA1.2.1830876899.1703175640&semt=ais",
+          "images1":"https://img.freepik.com/photos-gratuite/indiens-se-reposant-pres-du-feu-joie-leur-chameau_53876-47057.jpg?size=626&ext=jpg&uid=R131831811&ga=GA1.2.1830876899.1703175640&semt=ais"
+        
+        },
+        {
+          "nom": "Kasbah Taourirt",
+          "description": "Ancienne résidence du pacha de Marrakech.",
+          "type": "Site historique",
+          "images":"https://as1.ftcdn.net/v2/jpg/00/82/16/60/1000_F_82166027_fok2dWxWsUv2bjGaePWx6dgioBHtkvpG.jpg",
+          "images1":"https://as2.ftcdn.net/v2/jpg/01/30/26/77/1000_F_130267733_XmIkx6TTSfEh1ojP8x7MIlgUm4kn1qgO.jpg"
+        },
+        {
+          "nom": "Valley of the Roses",
+          "description": "Famous for its rose cultivation and annual Rose Festival.",
+          "type": "Vallée",
+          "images":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBixgm8TTjw4zUGltZZlWStVi5DLO1d34cwnvN8JS0zZBQUKCbaotyBPoo-hT7uP8OfYA&usqp=CAU",
+          "images1":"https://t3.ftcdn.net/jpg/01/40/89/58/240_F_140895862_3eJQ774OgSizPyhgYxvr1SEuZTwxiwkb.jpg"
+        },
+        {
+          "nom": "Dades Gorges",
+          "description": "Spectacular gorge known for its stunning rock formations.",
+          "type": "Gorges",
+          "latitude": 31.5618,
+          "longitude": -5.8366,
+          "images":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgpy3uNFmwVJ3ufi9o-kKeokNS3SpfCphyrw&usqp=CAU",
+          "images1":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMYm55ziId2CexAzbt9-VMt1YuVvHBpW4akA&usqp=CAU"
+            
+         
+        }
+      ]
+    },
+    {
+      "nom": "Marrakech",
+      "img1": "https://i.pinimg.com/236x/e8/41/68/e84168b68d760d2c023107c53a9f90be.jpg",
+      "lieux": [
+        {
+          "nom": "Jardin Majorelle",
+          "description": "Un jardin botanique créé par le peintre français Jacques Majorelle.",
+          "type": "Attraction touristique",
+          "images": "https://t4.ftcdn.net/jpg/02/96/28/53/240_F_296285348_v8oHW1DGGzGlhfBeY09FKXvhJcPd2gPn.jpg",
+          "images1": "https://t3.ftcdn.net/jpg/06/11/71/44/240_F_611714449_fStPBfdIwypgSWdjfWj15lidFzCX1iou.jpg"
+        },
+        {
+          "nom": "Koutoubia",
+          "description": "La plus grande mosquée de Marrakech.",
+          "type": "Site religieux",
+          "images": "https://media.istockphoto.com/id/1124485707/fr/photo/mosqu%C3%A9e-de-la-koutoubia-marrakech.jpg?s=612x612&w=0&k=20&c=JJQRXIkU_150rJkbdZrqAoYpQrc7phGVe1O0VyUVbsI=",
+          "images1": "https://media.istockphoto.com/id/963413630/fr/photo/mosqu%C3%A9e-koutobia-de-marrakech.jpg?b=1&s=612x612&w=0&k=20&c=S8JZJpGhl2S96DWx3ue1sp4x4N8pOcrZi3K1SeChIO4="
+        },
+        {
+          "nom": "Place Jemaa el-Fna",
+          "description": "La célèbre place au cœur de la médina de Marrakech.",
+          "type": "Place publique",
+          "images": "https://images.pexels.com/photos/15360681/pexels-photo-15360681/free-photo-of-foule-tour-marche-ville.jpeg?auto=compress&cs=tinysrgb&w=400",
+          "images1": "https://images.pexels.com/photos/13811605/pexels-photo-13811605.jpeg?auto=compress&cs=tinysrgb&w=400"
+        },
+        {
+          "nom": "Ourika Valley",
+          "description": "Une vallée pittoresque près de Marrakech, réputée pour ses paysages magnifiques et ses cascades.",
+          "images": "https://media.tacdn.com/media/attractions-splice-spp-674x446/0f/04/53/f5.jpg",
+          "images1": "https://www.desertmajesty.com/fr/wp-content/uploads/2020/08/ourika-lunch.jpg"
+        },
+        {
+          "nom": "Palais de la Bahia",
+          "description": "Un palais du XIXe siècle avec de superbes jardins et une architecture magnifique.",
+          "type": "Site historique",
+          "images": "https://t4.ftcdn.net/jpg/01/82/51/89/240_F_182518925_R55gwMI0q9UB1o5XhGrQxk6zBK6HogS5.jpg",
+          "images1": "https://t4.ftcdn.net/jpg/03/49/84/05/240_F_349840524_M6OzQg6tjFqtH50NGXata0JijToU3G0G.jpg"
+        },
+        {
+          "nom": "menara marrakech",
+          "description": "Un minaret emblématique dominant l'horizon de Marrakech.",
+          "type": "Site historique",
+          "images": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-pKpJu94ejUK1I_qtKeijAq5Y_7lMqSigPYp3Ex3yIUwPzygg0qmI-CRRFsjxZiejiUw&usqp=CAU",
+          "images1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsHjWzhYybSIYbqfKDYNK1q4625rL-aFnkPAcORerTntnFKC5iMLh4xKQ3-ar6E9ABwXo&usqp=CAU"
+        },
+        {
+          "nom": "Tombeaux Saadiens",
+          "description": "Des tombes historiques datant de l'époque saadienne, riches en décoration et en histoire.",
+          "type": "Site historique",
+          "images": "https://i.pinimg.com/236x/dd/b9/41/ddb94193583a4497b2891a7dc40dafe8.jpg",
+          "images1": "https://i.pinimg.com/236x/73/66/2b/73662b2279ba1982aecf724e32ff507b.jpg"
+        }
+      ]
+    }
+    ,
+    {
+      
+      "nom": "Casablanca",
+      "img1": "https://i.pinimg.com/236x/f8/6d/99/f86d99c340f157cfdcbbaaf64c1d2049.jpg",
+      "lieux": [
+        {
+          "nom": "Mosquée Hassan II",
+          "description": "La grande mosquée de Casablanca.",
+          "type": "Site religieux",
+          "images": "https://images.pexels.com/photos/12433313/pexels-photo-12433313.jpeg?auto=compress&cs=tinysrgb&w=400",
+          "images1":"https://images.pexels.com/photos/6587473/pexels-photo-6587473.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        },
+        {
+          "nom": "La Corniche",
+          "description": "Promenade en bord de mer.",
+          "type": "Attraction touristique",
+          "images": "https://img.freepik.com/photos-gratuite/mosquee-hassan-ii-entouree-eau-batiments-sous-ciel-bleu-lumiere-du-soleil_181624-26376.jpg?size=626&ext=jpg&uid=R131831811&ga=GA1.1.1830876899.1703175640&semt=ais",
+          "images1":"https://img.freepik.com/photos-gratuite/vue-mer-depuis-piscine-du-complexe_23-2148249073.jpg?size=626&ext=jpg&uid=R131831811&ga=GA1.1.1830876899.1703175640&semt=ais"
+        },
+        {
+          "nom": "Ancienne Médina",
+          "description": "Quartier historique avec des souks traditionnels.",
+          "type": "Site historique",
+          "images":"https://media.istockphoto.com/id/1473165867/fr/photo/paysage-urbain-de-casablanca-maroc.jpg?s=612x612&w=0&k=20&c=efhAf8-9m59ff4boa9Jqms9DIg6_Rv7aNYjGxCRHczI=",
+          "images1":"https://media.istockphoto.com/id/158222357/fr/photo/casablanca-old-medina.jpg?s=612x612&w=0&k=20&c=g0fQMp-jS04CYawTMjL3qiMOQ6dY9gQc9Rer767v7ok="
+         
+        },
+        
+        {
+          "nom": "Quartier Habous",
+          "description": "Connu pour son architecture mauresque et ses boutiques.",
+          "type": "Quartier traditionnel",
+          "images": "https://i.pinimg.com/564x/9e/3c/46/9e3c462104f6e13908076bc365c7ff4c.jpg",
+          "images1":"https://img.freepik.com/photos-gratuite/batiments-colores-rue-etroite-ville-espagnole-punto-brava-journee-ensoleillee-tenerife-canaries-espagne_1217-1902.jpg?size=626&ext=jpg&uid=R131831811&ga=GA1.2.1830876899.1703175640&semt=ais"
+                    
+        }
+        
+      ]
+    },
+    
+    {
+      "nom": "Agadir",
+      "img1": "https://i.pinimg.com/236x/43/8d/98/438d98af94ec18e88b92eb314eec6609.jpg",
+      "lieux": [
+        {
+          "nom": "Plage d'Agadir",
+          "description": "Belle plage célèbre pour ses étendues de sable.",
+          "type": "Plage",
+          "images": "https://media.istockphoto.com/id/640200918/photo/agadir-city-morocco.jpg?s=1024x1024&w=is&k=20&c=djisfHthY0VQ46lAv84OQis24EnnbOgA1ZsWwm3XP-M=",
+          "images1": "https://img.freepik.com/photos-gratuite/vue-panoramique-plage-sable-plage-chaises-longues-parasols-ouverts-mer-montagnes-hotel-recours-tekirova-kemer-dinde_146671-18881.jpg?w=900&t=st=1703446534~exp=1703447134~hmac=064518e13c37d0babde3a74c401129f007b7279fe682203df61b26b886572eb1"
+        },
+        {
+          "nom": "Kasbah Agadir Oufella",
+          "description": "Ancienne citadelle offrant une vue panoramique sur la ville.",
+          "type": "Site historique",
+          "images": "https://t4.ftcdn.net/jpg/01/75/01/65/240_F_175016525_4T84wCfUq2GDtA6MHndazobKk0S6bk5W.jpg",
+          "images1": "https://t3.ftcdn.net/jpg/01/22/03/04/240_F_122030413_4xSfd4txTXu0QuR2X0D8XxXyHMf8gy4a.jpg"
+        },
+        {
+          "nom": "Marina d'Agadir",
+          "description": "Port de plaisance moderne avec des restaurants et des boutiques.",
+          "type": "Marina",
+          "images": "https://i.pinimg.com/564x/d7/e7/ae/d7e7aeb38be8d15d4c271b82cd5e4f70.jpg",
+          "images1": "https://i.pinimg.com/564x/28/ff/6b/28ff6b1dc4f7457c6c4fffabbae710f5.jpg"
+        },
+        {
+          "nom": "Taghazout",
+          "description": "Village de pêcheurs réputé pour le surf et les plages pittoresques.",
+          "type": "Village",
+          "images": "https://i.pinimg.com/564x/ba/5f/7e/ba5f7e8c58d837746a455cd9b824198a.jpg",
+          "images1": "https://cdn.pixabay.com/photo/2020/04/07/15/51/taghazout-5013914_1280.jpg"
+        }
+      ]
+    }
+    ,
+    {
+      "nom": "Tanger",
+      "img1": "https://i.pinimg.com/236x/31/61/c1/3161c10c3b67d1080eac99bf050a3c5a.jpg",
+      "lieux": [
+        {
+          "nom": "Ancienne médina de Tanger",
+          "description": "Un quartier historique avec des rues étroites et des souks.",
+          "type": "Site historique",
+          "images": "https://i.pinimg.com/236x/3e/8e/83/3e8e8336f2cae5bf7b63ddc79402c2dd.jpg",
+          "images1": "https://i.pinimg.com/236x/d0/e4/92/d0e49293f5204884c3405f9ba82e438b.jpg"
+        },
+        {
+          "nom": "Cap Spartel",
+          "description": "Pointe extrême nord-ouest de l'Afrique, offrant une vue magnifique.",
+          "type": "Site naturel",
+          "images": "https://i.pinimg.com/474x/64/18/e4/6418e488dc7edd18915707a23e11953d.jpg",
+          "images1":"https://i.pinimg.com/564x/14/22/6e/14226e387a833eaae9220140abf96dba.jpg"
+        },
+        {
+          "nom": "Musée de la Kasbah",
+          "description": "Musée présentant l'histoire et la culture de Tanger.",
+          "type": "Musée",
+          "images": "https://i.pinimg.com/564x/43/34/2c/43342cfe14d423ddc1f2b46aaa7c83b5.jpg",
+          "images1":"https://i.pinimg.com/236x/35/88/8e/35888ecfda3418f3fe59196d57318267.jpg"
+        },
+        {
+          "nom": "Plage Achakkar",
+          "description": "Belle plage paisible pour se détendre et profiter du soleil.",
+          "type": "Plage",
+          "images": "https://i.pinimg.com/564x/7d/53/69/7d5369e813860aac23fb09afeaaa236a.jpg",
+          "images1": "https://i.pinimg.com/736x/d4/c9/ef/d4c9efc1040c3a4f3c06ea9b3242809e.jpg"
+        },
+        {
+          "nom": "Grottes d'Hercule",
+          "description": "Grottes naturelles réputées pour leurs formations rocheuses spectaculaires.",
+          "type": "Site naturel",
+          "images": "https://i.pinimg.com/564x/f9/30/b0/f930b0bdf1da6758b421cd84ffc3a8f2.jpg",
+          "images1":"https://i.pinimg.com/236x/56/84/85/5684852d9b4cec60d2a26904e270c2ee.jpg"
+        }
+      ]
+    }
+    ,
+    {
+      "nom": "El Jadida",
+      "img1": "https://i.pinimg.com/236x/5c/77/1c/5c771c64d1e29b6b6354c01f94cd646e.jpg",
+      "lieux": [
+        {
+          "nom": "Cité Portugaise",
+          "description": "Ancienne cité fortifiée portugaise.",
+          "type": "Site historique",
+          "images": "https://i.pinimg.com/236x/11/49/9d/11499d8734dcebe1fd7056abe2a73c07.jpg",
+          "images1": "https://i.pinimg.com/236x/51/6f/e1/516fe1f6b256c0163b1866c80e5d111c.jpg"
+        },
+        {
+          "nom": "Plage Sidi Bouzid",
+          "description": "Belle plage avec des activités nautiques.",
+          "type": "Plage",
+          "images": "https://i.pinimg.com/236x/1b/02/7f/1b027fbc78646050b285dbd3ea52d6f4.jpg",
+          "images1": "https://i.pinimg.com/236x/ba/0a/7e/ba0a7e661fc1ce4a904620831e19f936.jpg"
+        },
+        {
+          "nom": "Jardin Mohamed V",
+          "description": "Un jardin paisible au cœur de la ville.",
+          "type": "Jardin",
+          "images": "https://i.pinimg.com/236x/b0/c3/1b/b0c31b52a0c6cbdc329558ec3919e35e.jpg",
+          "images1": "https://img.freepik.com/photos-gratuite/arche-faite-buissons_1385-3081.jpg?size=626&ext=jpg&uid=R131831811&ga=GA1.2.1830876899.1703175640&semt=ais"
+        }
+      ]
+    }
+    ,
+    {
+      "nom": "Oualidia",
+      "img1": "https://i.pinimg.com/564x/57/ad/6c/57ad6c7aeb3da8b512098b8f391b0452.jpg",
+      "lieux": [
+
+        {
+          "nom": "Lagune d'Oualidia",
+          "description": "Réserve naturelle avec une lagune pittoresque.",
+          "type": "Réserve naturelle",
+          "latitude": 32.7409,
+          "longitude": -9.0369,
+          "images": "https://i.pinimg.com/236x/39/ad/48/39ad48cc7dfe16ba26d61bebee41a3f0.jpg",
+          "images1":"https://i.pinimg.com/236x/c4/df/36/c4df3661c18d27339cec2244db19f51e.jpg"
+        }
+      ]
+    }
+    
+  ]
+}

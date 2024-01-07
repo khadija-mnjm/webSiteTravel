@@ -1,0 +1,67 @@
+/* Styles pour le mode clair */
+body, .navbar, .description-container, .app-footer {
+    transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    background-color: #ffffff;
+    border-bottom: 1px solid #1b1b1b;
+}
+
+.logo {
+    width: 180px; /* Ajustez la largeur du logo selon vos besoins */
+    height: 40px;
+}
+
+.nav-button {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #ffffff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+
+    &:hover {
+        background-color: #0056b3;
+    }
+}
+
+.description-container {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #141617;
+    border-radius: 8px;
+    text-align: justify;
+}
+
+.app-footer {
+    bottom: 0;
+    width: 100%;
+    background-color: #080808;
+    padding: 10px 0;
+    text-align: center;
+    color:beige;
+}
+
+.container1 {
+    background-color: #141617;
+    color: aliceblue;
+    width: 100%;
+    height: 100%;
+    background-image: url('./Images/pages.png'); /* Chemin vers votre image */
+    background-size: cover; /* Ajuste la taille de l'image pour couvrir entièrement le conteneur */
+    background-repeat: no-repeat; /* Empêche la répétition de l'image */
+    background-position: center; /* Centre l'image */
+}
+.page{
+    background-color: #141617;
+    color: aliceblue;
+}
+
+  

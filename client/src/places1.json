@@ -1,0 +1,165 @@
+{
+    "populaires": [
+      {
+        "name": "Ouarzazate",
+        "description": "Ouarzazate est connue comme la porte du désert.",
+        "image": "https://th.bing.com/th/id/OIP.JxVgdgCA3mmKWoNBnihp1QHaFZ?rs=1&pid=ImgDetMain",
+        "characteristics": [
+          "Ville du Désert",
+          "Cinéma"
+        ]
+      },
+      {
+        "name": "Casablanca",
+        "description": "Casablanca est la plus grande ville du Maroc.",
+        "image": "https://th.bing.com/th/id/OIP.l-w2dbmXt0r9RUWfGqFQcQHaEK?rs=1&pid=ImgDetMain",
+        "characteristics": [
+          "Économie",
+          "Architecture Moderne"
+        ]
+      },
+      {
+        "name": "Rabat",
+        "description": "Rabat est la capitale du Maroc.",
+        "image": "https://th.bing.com/th/id/R.94a7dfcd7ee86f2de029f63c6c398042?rik=LXlJ2EANFamu9w&riu=http%3a%2f%2f3.bp.blogspot.com%2f-yvNReNVHG-c%2fUFSC30xRCnI%2fAAAAAAAABUU%2fLDgt8FSuGBo%2fs1600%2frabat56777xcc.jpg&ehk=ZONROIw0vQrT6ADyU3xRDu74AFmMYdpb8mAgVWD9lCM%3d&risl=&pid=ImgRaw&r=0",
+        "characteristics": [
+          "Capitale",
+          "Culture Historique"
+        ]
+      },
+      {
+        "name": "Tétouan",
+        "description": "Tétouan est une ville historique avec une influence andalouse.",
+        "image": "https://thinkmorocco.com/wp-content/uploads/2020/04/What-to-do-in-Tetouan-720x427.jpg",
+        "characteristics": [
+          "Culture Andalouse",
+          "Architecture Traditionnelle"
+        ]
+      },
+      {
+        "name": "Imlil",
+        "description": "Imlil est une porte d'entrée vers les montagnes de l'Atlas.",
+        "image": "https://experiences.lesjardinsdelamedina.com/wp-content/uploads/2021/01/Imlil-870x650.jpg",
+        "characteristics": [
+          "Randonnée",
+          "Montagnes"
+        ]
+      },
+      {
+        "name": "Ourika",
+        "description": "Ourika est connue pour ses cascades et ses vallées.",
+        "image": "https://th.bing.com/th/id/OIP.JmTlQFiZGDy48j4UkouSmwHaE4?rs=1&pid=ImgDetMain",
+        "characteristics": [
+          "Vallées",
+          "Nature"
+        ]
+      },
+      {
+        "name": "Chefchaouen",
+        "description": "Chefchaouen est célèbre pour ses maisons bleues.",
+        "image": "https://th.bing.com/th/id/R.8843dd27863cd550468809cb262a2a5e?rik=9KpiTtWVJbbR7g&pid=ImgRaw&r=0",
+        "characteristics": [
+          "Architecture Bleue",
+          "Culture Berbère"
+        ]
+      }
+    ],
+    "places sahara": [
+        {
+          "name": "Merzouga",
+          "description": "Merzouga est une porte d'entrée vers les dunes de l'Erg Chebbi.",
+          "image": "https://1.bp.blogspot.com/-_axfae4445w/YA7RvXjdofI/AAAAAAAADjQ/zb1KXbWrCNchmzPePeegkLpl1ceh9qYpACLcBGAsYHQ/s1600/slide4.jpg",
+          "characteristics": [
+            "Dunes de Sable",
+            "Expérience Nomade"
+          ]
+        },
+        {
+          "name": "Zagora",
+          "description": "Zagora est célèbre pour sa célèbre inscription 'Tombouctou - 52 jours'.",
+          "image": "https://th.bing.com/th/id/OIP.vkp9lTfa-2hMyYHsBGdvmwHaE8?rs=1&pid=ImgDetMain",
+          "characteristics": [
+            "Désert",
+            "Oasis"
+          ]
+        }
+      ],
+      "places Montagnes et Vallées": [
+        {
+          "name": "Chefchaouen",
+          "description": "Chefchaouen est une ville pittoresque aux maisons bleues.",
+          "image": "https://th.bing.com/th/id/R.5d8b1af22ce1b5310fdb19d8d6c3c7c9?rik=ICanwWaQwg3u1A&riu=http%3a%2f%2farchaeoadventures.com%2fwp-content%2fuploads%2f2015%2f10%2fGenevieve-Hathaway_Morocco_Chefchaouen_Medina-streets_1.jpg&ehk=%2bLz62iPuhcISuDD9HG3HkZVPKaqY1j7GPunuaGIsSJM%3d&risl=&pid=ImgRaw&r=0",
+          "characteristics": [
+            "Architecture Bleue",
+            "Montagnes Paisibles"
+          ]
+        },
+        {
+          "name": "Atlas",
+          "description": "Les montagnes de l'Atlas offrent des paysages spectaculaires.",
+          "image": "https://th.bing.com/th/id/R.103be1caf63588a9acb947f8421ffc83?rik=o338BTuMXTHpwA&pid=ImgRaw&r=0",
+          "characteristics": [
+            "Paysages Montagneux",
+            "Culture Berbère"
+          ]
+        }
+      ],
+      "places touristique historique": [
+        {
+          "name": "Fès",
+          "description": "Fès est la plus ancienne des villes impériales du Maroc.",
+          "image": "https://th.bing.com/th/id/R.eb862b2382d94ecd5c0aab276e670403?rik=7B7bGwRHHEi6%2fA&riu=http%3a%2f%2fwww.fescity.com%2fwp-content%2fuploads%2f2014%2f12%2fBab-Boujloud6.jpg&ehk=f4YDeDuYQD2AHlb1XtbGXs%2fYRe5zdePn3bOpTde%2fG7c%3d&risl=&pid=ImgRaw&r=0",
+          "characteristics": [
+            "Médina",
+            "Université Al-Qarawiyyin"
+          ]
+        },
+        {
+          "name": "Meknès",
+          "description": "Meknès est une ville impériale connue pour ses remparts massifs.",
+          "image": "https://global-geography.org/attach/Geography/Africa/Morocco/Pictures/Imperial_Cities/Meknes_-_Bou_Inania_Madrasa_1/MA333_Medrese_Bou_Inania.jpg",
+          "characteristics": [
+            "Palais",
+            "Marchés Traditionnels"
+          ]
+        }
+      ],
+      "places contient mer": [
+        {
+          "name": "Agadir",
+          "description": "Agadir est une station balnéaire populaire.",
+          "image": "https://th.bing.com/th/id/OIP.i9XGWEVauXOtfJj2NDAy8wHaGh?w=254&h=180&c=7&r=0&o=5&pid=1.7",
+          "characteristics": [
+            "Bord de Mer",
+            "Montagnes et Vallées"
+          ]
+        },
+        {
+          "name": "Tanger",
+          "description": "Tanger est une ville portuaire stratégique.",
+          "image": "https://th.bing.com/th/id/R.49d95da323697ed3964b2f740295393f?rik=HDF1ok5xJoh7rw&pid=ImgRaw&r=0",
+          "characteristics": [
+            "Bord de Mer",
+            "Culture Historique"
+          ]
+        },
+        {
+          "name": "Essaouira",
+          "description": "Essaouira est une ville côtière charmante.",
+          "image": "data:image/jpeg;base64,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",
+          "characteristics": [
+            "Bord de Mer",
+            "Culture Traditionnelle"
+          ]
+        },
+        {
+          "name": "El Jadida",
+          "description": "El Jadida est une ville portuaire avec une histoire riche.",
+          "image": "https://th.bing.com/th/id/OIP._m6n96ESAPyDytXpyXDqcAHaEK?w=318&h=180&c=7&r=0&o=5&pid=1.7",
+          "characteristics": [
+            "Bord de Mer",
+            "Architecture Historique"
+          ]
+        }
+      ]
+}

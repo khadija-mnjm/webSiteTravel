@@ -1,0 +1,212 @@
+[
+  {
+    "id": 1,
+    "nom": "Jardin Majorelle",
+    "description": "Un jardin botanique créé par le peintre français Jacques Majorelle.",
+    "type": "Naturelle",
+    "image": "https://t4.ftcdn.net/jpg/02/96/28/53/240_F_296285348_v8oHW1DGGzGlhfBeY09FKXvhJcPd2gPn.jpg",
+    "lieu": "Marakesh",
+    "image2":"https://th.bing.com/th/id/OIP.fkGWzHyE_BYoMf0Tb-eR0QHaE7?rs=1&pid=ImgDetMain"
+  },
+  {
+    "id": 2,
+    "nom": "Kasbah Ait Ben Haddou",
+    "description": "Une ancienne kasbah inscrite au patrimoine mondial de l'UNESCO.",
+    "type": "Traditionelle and fantastique ",
+    "image": "https://t4.ftcdn.net/jpg/02/65/79/69/240_F_265796936_enlHwZeWyxHFMeehcTfhTr6PyaI9ks9F.jpg",
+    "lieu": "Ouarzazte",
+    "image2":"https://th.bing.com/th/id/OIP.D-VDwbivXy2iIXppWz0RPQHaFQ?rs=1&pid=ImgDetMain"
+  },
+    {
+      "id": 3,
+      "nom": "sahra, Merzouga",
+      "description": "Merzouga est une porte d'entrée vers les dunes de l'Erg Chebbi.",
+      "type": "Sahara ",
+      "image": "https://1.bp.blogspot.com/-_axfae4445w/YA7RvXjdofI/AAAAAAAADjQ/zb1KXbWrCNchmzPePeegkLpl1ceh9qYpACLcBGAsYHQ/s1600/slide4.jpg",
+      "lieu": "Merzouga",
+      "image2":"https://res-5.cloudinary.com/enchanting/images/w_1600,h_700,c_fill/et-web/2018/12/Camp-site-over-sand-dunes-in-Merzouga-Sahara-desert-Morocco-Africa-e1544617828982/destination-merzouga-morocco.jpg"
+  },
+  {
+    "id": 4,
+      "nom": "ville blue",
+      "description": "Chefchaouen est une ville pittoresque aux maisons bleues.",
+      "type": "ville center",
+      "image": "https://th.bing.com/th/id/R.5d8b1af22ce1b5310fdb19d8d6c3c7c9?rik=ICanwWaQwg3u1A&riu=http%3a%2f%2farchaeoadventures.com%2fwp-content%2fuploads%2f2015%2f10%2fGenevieve-Hathaway_Morocco_Chefchaouen_Medina-streets_1.jpg&ehk=%2bLz62iPuhcISuDD9HG3HkZVPKaqY1j7GPunuaGIsSJM%3d&risl=&pid=ImgRaw&r=0",
+      "lieu": "Chefchaouen",
+      "image3":"https://th.bing.com/th/id/OSK.HEROBROxY_iah3JkMXu1KhLJl_gcNZ8_L3WUOp08KJF0kQw?rs=1&pid=ImgDetMain"
+  },
+  {
+    "id": 5,
+    "nom": "Essaouira",
+          "description": "Essaouira est une ville côtière charmante.",
+          "type": "Site historique",
+          "image": "https://th.bing.com/th/id/R.0847640aad302f3bbc0e05cd3809afa4?rik=kfkduMOGICjzPA&pid=ImgRaw&r=0",
+          "lieu": "Essaouira",
+          "image2":"https://th.bing.com/th/id/OIP.amwl-ef2AgX6r-k4jqH_YwHaEK?rs=1&pid=ImgDetMain"
+  },
+  {
+    "id": 6,
+    "nom": "Studio Atlas",
+    "description": "Studio de cinéma où de nombreux films ont été tournés.",
+    "type": "Attraction cinématographique",
+    "image": "https://t4.ftcdn.net/jpg/03/41/38/39/240_F_341383932_CDQei0tMdJsin8FhalIWYNiL2sTEllJo.jpg",
+    "lieu": "Ouarzazte",
+    "image2":"https://live.staticflickr.com/1791/28154037737_4277581b48_b.jpg"
+  },
+  {
+    "id": 7,
+    "nom": "Musée du Cinéma de Ouarzazate",
+    "description": "Un musée présentant l'histoire du cinéma au Maroc.",
+    "type": "Musée",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTZzbXt4E86u6EidzMym2xUR2AmLg_pHZDQg&usqp=CAU",
+    "lieu": "Ouarzazte",
+    "image2":"https://live.staticflickr.com/1791/28154037737_4277581b48_b.jpg"
+  },
+  {
+    "id": 8,
+    "nom": "Kasbah Talwat",
+    "description": "Une autre belle kasbah dans la région.",
+    "type": "Site historique",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBGPcrluZFapF6jip7oyq9Fz9JWpLQj91XMQ&usqp=CAU",
+    "lieu": "Ouarzazte",
+    "image2":"https://www.travel4pictures.com/img/s/v-10/p1056239084-4.jpg"
+  },
+  {
+    "id": 9,
+    "nom": "Bivouac de Merzouga",
+    "description": "Expérience de camping dans le désert de Merzouga.",
+    "type": "Camping",
+    "image": "https://img.freepik.com/photos-premium/oasis-cachee-dans-desert-tribu-nomade_865967-55175.jpg?size=626&ext=jpg&uid=R131831811&ga=GA1.2.1830876899.1703175640&semt=ais",
+    "lieu": "Merzouga",
+    "image2":"https://th.bing.com/th/id/OIP.RA868igknOc1Osx7kaRRvAHaFj?rs=1&pid=ImgDetMain"
+  },
+  {
+    "id":10,
+    "nom": "Kasbah Taourirt",
+    "description": "Ancienne résidence du pacha de Marrakech.",
+    "type": "Site historique",
+    "image": "https://as1.ftcdn.net/v2/jpg/00/82/16/60/1000_F_82166027_fok2dWxWsUv2bjGaePWx6dgioBHtkvpG.jpg",
+    "lieu": "Ouarzazte",
+    "image2":"https://th.bing.com/th/id/R.f152858a0b2900b9d478063494b2c7aa?rik=V%2bZdteouTf5DPQ&pid=ImgRaw&r=0"
+  },
+  {
+    "id": 11,
+    "nom": "Valley of the Roses",
+    "description": "Famous for its rose cultivation and annual Rose Festival.",
+    "type": "Vallée",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBixgm8TTjw4zUGltZZlWStVi5DLO1d34cwnvN8JS0zZBQUKCbaotyBPoo-hT7uP8OfYA&usqp=CAU",
+    "lieu": "kalaa-magouna",
+    "image2":"https://thinkmorocco.com/wp-content/uploads/2020/04/Harvesting-Roses-1-640x428.jpg"
+  },
+  {
+    "id": 12,
+    "nom": "Dades Gorges",
+    "description": "Spectacular gorge known for its stunning rock formations.",
+    "type": "Gorges",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgpy3uNFmwVJ3ufi9o-kKeokNS3SpfCphyrw&usqp=CAU",
+    "lieu": "Marakesh-safi",
+    "image2":"https://th.bing.com/th/id/R.55175fabaddfe210f459ff2c808db883?rik=ITZr6GDEILIiaA&pid=ImgRaw&r=0"
+  },
+  
+    { 
+      "id":"13",
+      "nom": "Jardin Majorelle",
+      "description": "Un jardin botanique créé par le peintre français Jacques Majorelle.",
+      "type": "Attraction touristique",
+      "image": "https://t4.ftcdn.net/jpg/02/96/28/53/240_F_296285348_v8oHW1DGGzGlhfBeY09FKXvhJcPd2gPn.jpg",
+      "lieu": "Marakesh",
+      "image2":"https://th.bing.com/th/id/OIP.fkGWzHyE_BYoMf0Tb-eR0QHaE7?rs=1&pid=ImgDetMain"
+    },
+    {
+      "id": "14",
+      "nom": "Koutoubia",
+      "description": "La plus grande mosquée de Marrakech.",
+      "type": "Site religieux",
+      "image": "https://media.istockphoto.com/id/1124485707/fr/photo/mosqu%C3%A9e-de-la-koutoubia-marrakech.jpg?s=612x612&w=0&k=20&c=JJQRXIkU_150rJkbdZrqAoYpQrc7phGVe1O0VyUVbsI=",
+      "lieu": "Marakesh",
+      "image2":"https://th.bing.com/th/id/OIP.w44uRXIYB_hP1nQJoUSZdwHaHa?rs=1&pid=ImgDetMain"
+    },
+    {
+      "id": "15",
+      "nom": "Place Jemaa el-Fna",
+      "description": "La célèbre place au cœur de la médina de Marrakech.",
+      "type": "Place publique",
+      "image": "https://images.pexels.com/photos/15360681/pexels-photo-15360681/free-photo-of-foule-tour-marche-ville.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "lieu": "Marakesh",
+      "image2":"https://thinkmorocco.com/wp-content/uploads/2020/04/Jemaa-el-Fnaa-Square-1536x1020.jpg"
+    },
+    {
+      "id": "16",
+      "nom": "Ourika Valley",
+      "description": "Une vallée pittoresque près de Marrakech, réputée pour ses paysages magnifiques et ses cascades.",
+      "type": "Vallée",
+      "image": "https://media.tacdn.com/media/attractions-splice-spp-674x446/0f/04/53/f5.jpg",
+      "lieu": "Ourika ,Marakesh",
+      "image2":"https://th.bing.com/th/id/R.7f5c16272b3df4519f77641781047873?rik=S2SRK0IVCPcE%2bQ&pid=ImgRaw&r=0"
+    },
+    {
+      "id": "17",
+      "nom": "Palais de la Bahia",
+      "description": "Un palais du XIXe siècle avec de superbes jardins et une architecture magnifique.",
+      "type": "Site historique",
+      "image": "https://t4.ftcdn.net/jpg/01/82/51/89/240_F_182518925_R55gwMI0q9UB1o5XhGrQxk6zBK6HogS5.jpg",
+      "lieu": "Marakesh",
+      "image2":"https://th.bing.com/th/id/R.030b8e34673f07867db3ba76c35e0e74?rik=wsp5EZ0zMBqyJg&pid=ImgRaw&r=0"
+    },
+    {
+      "id": "18",
+      "nom": "menara marrakech",
+      "description": "Un minaret emblématique dominant l'horizon de Marrakech.",
+      "type": "Site historique",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-pKpJu94ejUK1I_qtKeijAq5Y_7lMqSigPYp3Ex3yIUwPzygg0qmI-CRRFsjxZiejiUw&usqp=CAU",
+      "lieu": "Marakesh",
+      "image2":"https://th.bing.com/th/id/R.0abda704742ed1b5eb8c3a40d505ac4a?rik=lW4WUksh1QjBUA&pid=ImgRaw&r=0"
+    },
+    {
+      "id": "19",
+      "nom": "Tombeaux Saadiens",
+      "description": "Des tombes historiques datant de l'époque saadienne, riches en décoration et en histoire.",
+      "type": "Site historique",
+      "image": "https://i.pinimg.com/236x/dd/b9/41/ddb94193583a4497b2891a7dc40dafe8.jpg",
+      "lieu": "Marakesh",
+      "image2":"https://th.bing.com/th/id/R.9dd40cc86c3d945a6fc4e5db60906a3b?rik=VW0pLuF2xFeJfQ&pid=ImgRaw&r=0"
+    },
+    {
+      "id": "20",
+      "nom": "Mosquée Hassan II",
+      "description": "L'une des plus grandes mosquées du monde, avec son minaret dominant l'horizon et une architecture impressionnante.",
+      "type": "Site religieux",
+      "image": "https://th.bing.com/th/id/OIP.l-w2dbmXt0r9RUWfGqFQcQHaEK?rs=1&pid=ImgDetMain",
+      "lieu": "cazablanca",
+      "image2":"https://th.bing.com/th/id/R.e771a29a2aad1894399df6f67db74a65?rik=8233gK5e1lYNxg&pid=ImgRaw&r=0"
+    },
+    {
+      "id": "21",
+      "nom": "El Jadida",
+      "description": "El Jadida est une ville portuaire avec une histoire riche.",
+      "type": "Site religieux",
+      "image": "https://th.bing.com/th/id/OIP._m6n96ESAPyDytXpyXDqcAHaEK?w=318&h=180&c=7&r=0&o=5&pid=1.7",
+      "lieu": "El Jadida",
+      "image2":"https://th.bing.com/th/id/OIP.7eIRVRxf-TfBsOjY7oh3tgHaEP?rs=1&pid=ImgDetMain"
+    },
+    {
+      "id": "22",
+      "nom": "Fès",
+          "description": "Fès est la plus ancienne des villes impériales du Maroc.",
+          "image": "https://th.bing.com/th/id/R.eb862b2382d94ecd5c0aab276e670403?rik=7B7bGwRHHEi6%2fA&riu=http%3a%2f%2fwww.fescity.com%2fwp-content%2fuploads%2f2014%2f12%2fBab-Boujloud6.jpg&ehk=f4YDeDuYQD2AHlb1XtbGXs%2fYRe5zdePn3bOpTde%2fG7c%3d&risl=&pid=ImgRaw&r=0",
+          "type":"Site historique",
+          "lieu": "Fès",
+          "image2":"https://th.bing.com/th/id/OIP.el1SZsxY1bcka4XnoFOy7gHaE6?rs=1&pid=ImgDetMain"
+    },
+    { 
+      "id": "23",
+      "nom": "Ourika",
+      "description": "Ourika est connue pour ses cascades et ses vallées.",
+      "image": "https://th.bing.com/th/id/OIP.JmTlQFiZGDy48j4UkouSmwHaE4?rs=1&pid=ImgDetMain",
+      "type":"Site historique",
+      "lieu": "Ourika",
+      "image2":"https://th.bing.com/th/id/R.b53f404c2e0d11f9ebbf7885454a679f?rik=%2bD55hZTRZuhvhA&riu=http%3a%2f%2fwww.omegatour.net%2fwp-content%2fuploads%2f2016%2f11%2fOURIKA-om.jpg&ehk=ALLHMEwCVBym7FWmU4pUIfV7nV8VTmpLIpFBDb1F28c%3d&risl=&pid=ImgRaw&r=0"
+    }
+      
+]
+  

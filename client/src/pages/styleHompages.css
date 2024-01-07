@@ -1,0 +1,275 @@
+/* Base styling for the unordered list */
+.ul {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  padding: 14px;
+  list-style: none;
+}
+
+/* Styling for individual list items on hover */
+.li:hover {
+  transform: scale(1.05); /* Slight scale up on hover */
+  transition: transform 0.3s ease, background-color 0.3s ease; /* Transition effect for transform and background-color */
+}
+
+/* General styling for list items */
+.ul li {
+  margin-right: 20px; /* Adjust spacing between list items */
+  transition: margin-right 0.3s ease; /* Transition effect for margin-right */
+}
+
+/* Common transition effect for list items */
+.li {
+  transition: all 0.3s ease; /* Common transition effect for all properties */
+}
+
+/* Styling for the card */
+.a {
+  display: inline-flex; /* Ensure the card behaves like an inline-level element */
+  align-items: center;
+  background-color: #fff;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 6px;
+  color: #5b9cff;
+  cursor: pointer;
+  font-family: "Google Sans", Roboto, Arial, sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  height: auto;
+  justify-content: center;
+  margin-right: 20px;
+  overflow: hidden;
+  padding: 10px 24px;
+  transition: all 0.3s ease;
+  user-select: none;
+  width: auto;
+  z-index: 0;
+}
+
+.a:hover {
+  background-color: #f6f9fe; /* Lighter background on hover */
+}
+
+.a img {
+  width: 150px; 
+  height:150px;  /* Ensure the image doesn't exceed the card's height */
+  margin-right: 15px;
+  flex-shrink: 0;
+}
+.city-name {
+  text-align: center; 
+  margin-top: 5px; 
+  font-size: 14px;
+  color: #5b9cff; 
+}
+
+  .TitreVille {
+    font-size: 48px;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    background: linear-gradient(to right, #405de6, #5851db, #833ab4, #c13584, #e1306c, #fd1d1d);
+   
+  }
+  .Titre{
+    font-family: 'Helvetica Neue', sans-serif;
+    font-size: 2em; 
+    padding: 20px;
+    background: linear-gradient(90deg, #feda77, #ed4956, #ac2bac, #5433ff, #20bdff); /* Dégradé de couleurs Instagram */
+    -webkit-background-clip: text; 
+  
+    -webkit-text-fill-color: transparent; 
+    display: inline-block; 
+    padding: 10px;
+  
+  }
+  
+  
+  .instagram-post {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 80%;
+    margin: 10px auto;
+    border: 1px solid #fffbfb;
+    background-color: white;
+    padding: 20px;
+  }
+  
+  .image-container {
+    display: flex;
+    border: 1px solid #ccc;
+    overflow: hidden;
+    width: 100%;
+    gap: 10px; /* Espacement entre les images */
+  }
+  
+  
+  .first-image,
+  .second-image {
+    width: 50%;
+    height: auto;
+    display: block;
+    flex-shrink: 0;
+  }
+  
+  .post-details {
+    padding: 10px;
+    text-align: center;
+  }
+  
+  .input {
+    width: 100%;
+    border: 0;
+    border-bottom: 2px solid;
+    outline: 0;
+    padding: 7px 0;
+    background: transparent;
+    transition: border-color 0.2s;
+  }
+  
+  .input:focus {
+    padding-bottom: 6px;
+    font-weight: 700;
+    border-width: 3px;
+    border-image: linear-gradient();
+    border-image-slice: 1;
+  }
+  
+  .btnRtn {
+    
+    color: #fff; /* Couleur du texte */
+    border: none; /* Retirer la bordure */
+    font-weight: bold;
+    font-size: 1rem; /* Taille du texte */
+    margin: 0;
+    cursor: pointer;
+    padding: 10px 20px; /* Ajustement du padding */
+    border-radius: 6px; /* Ajouter des coins arrondis */
+    transition: background-color 0.3s, color 0.3s; /* Transition pour un effet fluide */
+  }
+  
+  .btnRtn:hover {
+    background: linear-gradient( #5433ff ); 
+    color: #000; /* Changement de couleur du texte au survol */
+  }
+  
+  
+  
+  
+  .ulPlace {
+    font-size: 20px;
+    color: #1d97b6;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .ulPlace li {
+    margin: 10px;
+    padding: 8px;
+    flex-basis: 45%;
+    text-align: center;
+    
+    border-radius: 8px;
+    background:#e7edf0;
+  }
+  .ulPlace li a {
+    .ulPlace li {
+      margin: 10px;
+      padding: 8px;
+      flex-basis: 45%;
+      text-align: center;
+     
+  
+      /* border: 2px solid #1d97b6; / / Commentez ou supprimez cette ligne pour retirer la bordure */
+    }
+  }
+  
+  .ulPlace :hover {
+    background-color: #20bdff; /* Couleur de fond au survol */
+    color: white; /* Changement de couleur du texte au survol */
+  }
+  
+  
+  
+  .comment-section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .comment-input {
+    display: flex;
+    align-items: center; /* Aligner les éléments verticalement */
+    margin-bottom: 10px;
+  }
+  .comment-input input {
+    flex: 1; /* Prendre autant d'espace que possible */
+    width: 70%; /* Ajuster la largeur de l'input */
+    border: 0;
+    border-bottom: 2px solid;
+    outline: 0;
+    padding: 7px 10px; /* Ajuster le padding */
+    background: transparent;
+    transition: border-color 0.2s;
+  }
+  .comment-input button {
+    padding: 8px 15px; /* Ajuster la taille du bouton */
+    margin-left: 10px; /* Espacement entre l'input et le bouton */
+    background-color: #405de6; /* Couleur de fond du bouton */
+    color: white; /* Couleur du texte */
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .comment-input button:hover {
+    background-color: #6b7bdb; /* Couleur de fond au survol */
+  }
+  
+  .comment-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+  }
+  
+  .comment-list .liCmnt {
+    /* Ajoutez les styles souhaités pour chaque commentaire */
+  }
+  
+  
+  a {
+    text-decoration: none;
+  }
+  
+  /* Styles pour les boutons Like et Comment */
+  .interaction-section {
+    display: flex;
+    align-items: center;
+    justify-content: space-between; /* Espacement entre les boutons */
+    margin-top: 10px;
+  }
+  
+  .like-section,
+  .comment-section {
+    display: flex;
+    align-items: center;
+  }
+  
+  .like-section button,
+  .comment-section button {
+    margin-right: 5px;
+  }
+  
+  .comment-section {
+    display: flex;
+    align-items: center;
+  }
